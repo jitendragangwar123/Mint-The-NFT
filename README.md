@@ -18,9 +18,10 @@ git config --global user.email "gangwarjitendra2498@gmail.com"
 git init
 git add .
 git commit -m "initial commit"
+git branch -M main
 git remote add origin https://github.com/jitendragangwar123/Mint_The_NFT.git
-git push --set-upstream origin master
-git push -f origin master //forcefully push on github repository
+git push -u origin main
+git push -f origin main //forcefully push on github repository
 
 ```
 
