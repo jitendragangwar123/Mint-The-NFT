@@ -21,10 +21,10 @@ module.exports = {
   networks: {
     rinkeby: {
       //get this url from infura.io
-      url: "https://rinkeby.infura.io/v3/f4c4155e68a64eed8cd96eb9c94aa569",
+      url: "https://rinkeby.infura.io/v3/f4c4155e68a64eed8cd96eb9",
       //put the private key of rinkeby network.
       accounts: [
-        "f71b0769923b8edb6e60cf9bd291a7770444a82a3b634ec0790a82e4ecb3cc12",
+        "f71b0769923b8edb6e60cf9bd291a7770444a82a3b634ec0790",
       ],
     },
   },
